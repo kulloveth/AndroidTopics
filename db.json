@@ -1,6 +1,6 @@
 {
 "modern":[{
-"category":"beginner",
+"category":"Basic",
 "concepts":[{
 "id":1,
 "topic":"kotlin",
@@ -93,5 +93,7 @@
  "doclink":""
  }
  ]}]
+},{
+"category":"Other"
 }
 ]}
