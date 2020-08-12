@@ -1,43 +1,76 @@
 {
-  "modern": {
-      "beginner": [
-        "Kotlin",
-        "Xml",
-        "Gradle",
-        "AndroidManifest",
-        "Android layouts",
-        "Android Component",
-        "Intents",
-        "Fragments",
-        "View",
-        "Resources"
-      ],
-      "intermediate": [
-        "Custom View",
-        "Threading",
-        "Storage",
-        "Memory Leaks",
-        "Networking",
-        "Animation",
-        "Android Jetpack"
-      ],
-      "advanced": [
-        "Third Party Library",
-        "Dependency Injection",
-        "Architecture",
-        "Design Patter",
-        "Unit Tests",
-        "User Interface Test",
-        "App Release",
-        "Concurrency",
-        "Machine Learning"
-      ],
-    "extra": [
-      "Git",
-      "Github",
-      "Android Studio",
-      "Open Source Project",
-      "Android Blog"
-    ]
-    }
+"modern":[{
+"category":"beginner",
+"concepts":[{
+"topic":"kotlin",
+"desc":"Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference",
+ "examples":[{
+ "name":"var",
+ "desc":"var is used to declare a mutable variable in kotlin which means the variable can be assigned multiple times.",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }]
+},{
+"topic":"Xml Tags",
+"desc":"Xml is an Extensible markup language used to describe data. It is used to design the user interface of your app separating it from the code that controls its behaviour",
+ "examples":[{
+ "name":"root tag",
+ "desc":"",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }]
+ }
+]
+},
+{
+"category":"Intermediate",
+"concepts":[{
+"topic":"Networking",
+"desc":"Networking in android lets your application connect to the internet or any other local networks and allows you to perform network network operations ",
+ "examples":[{
+ "name":"permissions",
+ "desc":"In other to perform network operations in your app the manifest most include some permissions ",
+ "samplecode":"<uses-permission android:name=\"android.permission.INTERNET\" /><uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\" />",
+ "projectlink":"",
+ "doclink":"https://developer.android.com/training/basics/network-ops/connecting"
+ }]
+},{
+"topic":"Check Network Connections",
+"desc":"Checking for network connections in your app helps you to notify users about their device network state why using your app",
+ "examples":[{
+ "name":"Connectivity Manager",
+ "desc":"This is a class in android that helps you get the device network informations by connecting to the system service",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }]
+ }
+]
+},
+{
+"category":"Advanced",
+"concepts":[{
+"topic":"Dependency Injection",
+"desc":"This simply means providing a class with an object it requires for complete performance",
+ "examples":[{
+ "name":"Koin",
+ "desc":"A pragmatic lightweight dependency injection framework for Kotlin developers Written in pure Kotlin, using functional resolution only: no proxy, no code generation, no reflection.",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ }]
+},{
+"topic":"Unit Testing",
+"desc":"",
+ "examples":[{
+ "name":"Connectivity Manager",
+ "desc":"This is a class in android that helps you get the device network informations by connecting to the system service",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }
+ ]}]
 }
+]}
