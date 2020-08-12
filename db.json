@@ -2,9 +2,11 @@
 "modern":[{
 "category":"beginner",
 "concepts":[{
+"id":1,
 "topic":"kotlin",
 "desc":"Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference",
  "examples":[{
+ "id":1,
  "name":"var",
  "desc":"var is used to declare a mutable variable in kotlin which means the variable can be assigned multiple times.",
  "samplecode":"nnnnnn",
@@ -12,9 +14,11 @@
  "doclink":""
  }]
 },{
+"id":2,
 "topic":"Xml Tags",
 "desc":"Xml is an Extensible markup language used to describe data. It is used to design the user interface of your app separating it from the code that controls its behaviour",
  "examples":[{
+ "id":1,
  "name":"root tag",
  "desc":"",
  "samplecode":"nnnnnn",
@@ -27,21 +31,34 @@
 {
 "category":"Intermediate",
 "concepts":[{
+"id":1,
 "topic":"Networking",
 "desc":"Networking in android lets your application connect to the internet or any other local networks and allows you to perform network network operations ",
  "examples":[{
+ "id":1,
  "name":"permissions",
  "desc":"In other to perform network operations in your app the manifest most include some permissions ",
  "samplecode":"<uses-permission android:name=\"android.permission.INTERNET\" /><uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\" />",
  "projectlink":"",
  "doclink":"https://developer.android.com/training/basics/network-ops/connecting"
- }]
+ },
+ {
+ "id":2,
+ "name":"Check Network Connections",
+ "desc":"Checking for network connections in your app helps you to notify users about their device network state why using your app",
+ "samplecode":"<uses-permission android:name=\"android.permission.INTERNET\" /><uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\" />",
+ "projectlink":"",
+ "doclink":"https://developer.android.com/training/basics/network-ops/connecting"
+ }
+ ]
 },{
-"topic":"Check Network Connections",
-"desc":"Checking for network connections in your app helps you to notify users about their device network state why using your app",
+"id":1,
+"topic":"Architecture Component",
+"desc":"This is one of the Jetpack features introduced by Google to promote good app architecture ",
  "examples":[{
- "name":"Connectivity Manager",
- "desc":"This is a class in android that helps you get the device network informations by connecting to the system service",
+ "id":1,
+ "name":"ViewModel",
+ "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
  "samplecode":"nnnnnn",
  "projectlink":"",
  "doclink":""
@@ -52,9 +69,11 @@
 {
 "category":"Advanced",
 "concepts":[{
+"id":1,
 "topic":"Dependency Injection",
 "desc":"This simply means providing a class with an object it requires for complete performance",
  "examples":[{
+ "id":1,
  "name":"Koin",
  "desc":"A pragmatic lightweight dependency injection framework for Kotlin developers Written in pure Kotlin, using functional resolution only: no proxy, no code generation, no reflection.",
  "samplecode":"",
@@ -62,9 +81,11 @@
  "doclink":""
  }]
 },{
+"id":2,
 "topic":"Unit Testing",
 "desc":"",
  "examples":[{
+ "id":1,
  "name":"Connectivity Manager",
  "desc":"This is a class in android that helps you get the device network informations by connecting to the system service",
  "samplecode":"nnnnnn",
