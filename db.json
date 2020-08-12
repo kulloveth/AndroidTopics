@@ -1,0 +1,43 @@
+{
+  "modern": {
+      "beginner": [
+        "Kotlin",
+        "Xml",
+        "Gradle",
+        "AndroidManifest",
+        "Android layouts",
+        "Android Component",
+        "Intents",
+        "Fragments",
+        "View",
+        "Resources"
+      ],
+      "intermediate": [
+        "Custom View",
+        "Threading",
+        "Storage",
+        "Memory Leaks",
+        "Networking",
+        "Animation",
+        "Android Jetpack"
+      ],
+      "advanced": [
+        "Third Party Library",
+        "Dependency Injection",
+        "Architecture",
+        "Design Patter",
+        "Unit Tests",
+        "User Interface Test",
+        "App Release",
+        "Concurrency",
+        "Machine Learning"
+      ],
+    "extra": [
+      "Git",
+      "Github",
+      "Android Studio",
+      "Open Source Project",
+      "Android Blog"
+    ]
+    }
+}
