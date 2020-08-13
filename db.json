@@ -3,7 +3,7 @@
 "category":"Basic",
 "concepts":[{
 "id":1,
-"topic":"kotlin",
+"topic":"Android ViewGroups",
 "desc":"Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference",
  "examples":[{
  "id":1,
@@ -15,7 +15,85 @@
  }]
 },{
 "id":2,
-"topic":"Xml Tags",
+"topic":"Android Views",
+"desc":"Xml is an Extensible markup language used to describe data. It is used to design the user interface of your app separating it from the code that controls its behaviour",
+ "examples":[{
+ "id":1,
+ "name":"root tag",
+ "desc":"",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }]
+ },
+ {
+"id":3,
+"topic":"Application Components",
+"desc":"Xml is an Extensible markup language used to describe data. It is used to design the user interface of your app separating it from the code that controls its behaviour",
+ "examples":[{
+ "id":1,
+ "name":"root tag",
+ "desc":"",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }]
+ },
+  {
+"id":4,
+"topic":"Referencing Views",
+"desc":"Xml is an Extensible markup language used to describe data. It is used to design the user interface of your app separating it from the code that controls its behaviour",
+ "examples":[{
+ "id":1,
+ "name":"root tag",
+ "desc":"",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }]
+ },
+  {
+"id":5,
+"topic":"App Resourcess",
+"desc":"Xml is an Extensible markup language used to describe data. It is used to design the user interface of your app separating it from the code that controls its behaviour",
+ "examples":[{
+ "id":1,
+ "name":"root tag",
+ "desc":"",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }]
+ },
+  {
+"id":6,
+"topic":"Intents and Intent-Filters",
+"desc":"Xml is an Extensible markup language used to describe data. It is used to design the user interface of your app separating it from the code that controls its behaviour",
+ "examples":[{
+ "id":1,
+ "name":"root tag",
+ "desc":"",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }]
+ },
+  {
+"id":7,
+"topic":"Android Navigation",
+"desc":"Xml is an Extensible markup language used to describe data. It is used to design the user interface of your app separating it from the code that controls its behaviour",
+ "examples":[{
+ "id":1,
+ "name":"root tag",
+ "desc":"",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }]
+ },
+  {
+"id":8,
+"topic":"Material Design",
 "desc":"Xml is an Extensible markup language used to describe data. It is used to design the user interface of your app separating it from the code that controls its behaviour",
  "examples":[{
  "id":1,
@@ -94,6 +172,6 @@
  }
  ]}]
 },{
-"category":"Other"
+"category":"Others"
 }
 ]}
