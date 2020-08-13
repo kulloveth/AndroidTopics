@@ -130,12 +130,51 @@
  }
  ]
 },{
-"id":1,
+"id":2,
 "topic":"Architecture Component",
 "desc":"This is one of the Jetpack features introduced by Google to promote good app architecture ",
  "examples":[{
  "id":1,
  "name":"ViewModel",
+ "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }]
+ },
+ {
+"id":3,
+"topic":"Firebase",
+"desc":"This is one of the Jetpack features introduced by Google to promote good app architecture ",
+ "examples":[{
+ "id":1,
+ "name":"Firebase Database",
+ "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }]
+ },
+ {
+"id":4,
+"topic":"Animation",
+"desc":"This is one of the Jetpack features introduced by Google to promote good app architecture ",
+ "examples":[{
+ "id":1,
+ "name":"Property Animation",
+ "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }]
+ },
+ {
+"id":5,
+"topic":"Threading",
+"desc":"This is one of the Jetpack features introduced by Google to promote good app architecture ",
+ "examples":[{
+ "id":1,
+ "name":"Runnables",
  "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
  "samplecode":"nnnnnn",
  "projectlink":"",
@@ -172,6 +211,31 @@
  }
  ]}]
 },{
-"category":"Others"
+"category":"Others",
+"concepts":[{
+"id":1,
+"topic":"Git",
+"desc":"A version Control System that helps to keep track of changes during software development",
+ "examples":[{
+ "id":1,
+ "name":"Koin",
+ "desc":"A pragmatic lightweight dependency injection framework for Kotlin developers Written in pure Kotlin, using functional resolution only: no proxy, no code generation, no reflection.",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ }]
+},{
+"id":2,
+"topic":"Github",
+"desc":"",
+ "examples":[{
+ "id":1,
+ "name":"Connectivity Manager",
+ "desc":"This is a class in android that helps you get the device network informations by connecting to the system service",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }
+ ]}]
 }
 ]}
