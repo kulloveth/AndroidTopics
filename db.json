@@ -246,8 +246,8 @@
 "desc":"A version Control System that helps to keep track of changes during software development",
  "examples":[{
  "id":1,
- "name":"Koin",
- "desc":"A pragmatic lightweight dependency injection framework for Kotlin developers Written in pure Kotlin, using functional resolution only: no proxy, no code generation, no reflection.",
+ "name":"",
+ "desc":"",
  "samplecode":"",
  "projectlink":"",
  "doclink":""
@@ -258,9 +258,35 @@
 "desc":"",
  "examples":[{
  "id":1,
- "name":"Connectivity Manager",
- "desc":"This is a class in android that helps you get the device network informations by connecting to the system service",
- "samplecode":"nnnnnn",
+ "name":"",
+ "desc":"",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ }
+ ]},
+ {
+"id":3,
+"topic":"CI/CD",
+"desc":"",
+ "examples":[{
+ "id":1,
+ "name":"",
+ "desc":"",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ }
+ ]},
+ {
+"id":4,
+"topic":"GCP",
+"desc":"",
+ "examples":[{
+ "id":1,
+ "name":"",
+ "desc":"",
+ "samplecode":"",
  "projectlink":"",
  "doclink":""
  }
