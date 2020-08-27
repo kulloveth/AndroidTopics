@@ -109,7 +109,7 @@
  "id":1,
  "name":"root tag",
  "desc":"",
- "samplecode":"nnnnnn",
+ "samplecode":"",
  "projectlink":"",
  "doclink":""
  }]
@@ -117,12 +117,43 @@
   {
 "id":8,
 "topic":"Material Design",
-"desc":"Xml is an Extensible markup language used to describe data. It is used to design the user interface of your app separating it from the code that controls its behaviour",
+"desc":"",
  "examples":[{
  "id":1,
- "name":"root tag",
+ "name":"FAB",
+ "desc":"Floating Action Button(fab)",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":2,
+ "name":"SnackBar",
  "desc":"",
- "samplecode":"nnnnnn",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ },{
+ "id":3,
+ "name":"App Bar",
+ "desc":"",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":4,
+ "name":"Bottom Navigation",
+ "desc":"",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":5,
+ "name":"TABS",
+ "desc":"",
+ "samplecode":"",
  "projectlink":"",
  "doclink":""
  }]
