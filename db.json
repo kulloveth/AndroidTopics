@@ -91,12 +91,12 @@
   {
 "id":6,
 "topic":"Intents and Intent-Filters",
-"desc":"Xml is an Extensible markup language used to describe data. It is used to design the user interface of your app separating it from the code that controls its behaviour",
+"desc":"",
  "examples":[{
  "id":1,
- "name":"root tag",
+ "name":"",
  "desc":"",
- "samplecode":"nnnnnn",
+ "samplecode":"",
  "projectlink":"",
  "doclink":""
  }]
@@ -152,6 +152,45 @@
  {
  "id":5,
  "name":"TABS",
+ "desc":"",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ }]
+ }, 
+ {
+"id":9,
+"topic":"Menus",
+"desc":"",
+ "examples":[{
+ "id":1,
+ "name":"",
+ "desc":"",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ }]
+ },
+   {
+"id":10,
+"topic":"TextViews",
+"desc":"",
+ "examples":[{
+ "id":1,
+ "name":"",
+ "desc":"",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ }]
+ },
+   {
+"id":11,
+"topic":"Dialogs",
+"desc":"",
+ "examples":[{
+ "id":1,
+ "name":"",
  "desc":"",
  "samplecode":"",
  "projectlink":"",
