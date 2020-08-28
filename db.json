@@ -70,7 +70,7 @@
  "id":1,
  "name":"Kotlin Synthetic",
  "desc":"",
- "samplecode":"nnnnnn",
+ "samplecode":"",
  "projectlink":"",
  "doclink":""
  },
@@ -78,7 +78,7 @@
  "id":2,
  "name":"DataBinding",
  "desc":"",
- "samplecode":"nnnnnn",
+ "samplecode":"",
  "projectlink":"",
  "doclink":""
  },
@@ -86,20 +86,36 @@
  "id":3,
  "name":"ViewBinding",
  "desc":"",
- "samplecode":"nnnnnn",
+ "samplecode":"",
  "projectlink":"",
  "doclink":""
  }]
  },
   {
 "id":5,
-"topic":"App Resourcess",
-"desc":"Xml is an Extensible markup language used to describe data. It is used to design the user interface of your app separating it from the code that controls its behaviour",
+"topic":"App Resources",
+"desc":"These are the additional files that a project requires and can be found in the res folder",
  "examples":[{
  "id":1,
- "name":"root tag",
+ "name":"drawable",
  "desc":"",
- "samplecode":"nnnnnn",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":2,
+ "name":"layout",
+ "desc":"",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":3,
+ "name":"menu",
+ "desc":"",
+ "samplecode":"",
  "projectlink":"",
  "doclink":""
  }]
