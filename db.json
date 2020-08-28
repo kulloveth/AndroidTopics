@@ -274,8 +274,24 @@
  "examples":[{
  "id":1,
  "name":"Firebase Database",
- "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "desc":"",
  "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":2,
+ "name":"Cloud Firestore",
+ "desc":"",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":3,
+ "name":"Firebase Authentication",
+ "desc":"",
+ "samplecode":"",
  "projectlink":"",
  "doclink":""
  }]
@@ -339,12 +355,20 @@
  }]
 },{
 "id":2,
-"topic":"Unit Testing",
+"topic":"Testing",
 "desc":"",
  "examples":[{
  "id":1,
- "name":"Connectivity Manager",
- "desc":"This is a class in android that helps you get the device network informations by connecting to the system service",
+ "name":"Unit Testing",
+ "desc":"",
+ "samplecode":"",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":2,
+ "name":"Instrumentation test",
+ "desc":"",
  "samplecode":"",
  "projectlink":"",
  "doclink":""
