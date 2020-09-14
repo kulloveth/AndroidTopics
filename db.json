@@ -307,7 +307,32 @@
  "samplecode":"nnnnnn",
  "projectlink":"",
  "doclink":""
- }]
+ },
+ {
+ "id":2,
+ "name":"View Animation",
+ "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":3,
+ "name":"Motion Layout",
+ "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":4,
+ "name":"Lottie Animation",
+ "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }
+ ]
  },
  {
 "id":5,
