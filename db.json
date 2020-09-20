@@ -270,7 +270,7 @@
  {
 "id":3,
 "topic":"Firebase",
-"desc":"This is one of the Jetpack features introduced by Google to promote good app architecture ",
+"desc":"This is a NoSQL Backend-as-a-Service (Baas) that provides developers with a variety of tools amd services to help them develop quality apps, build their products and earn profit  ",
  "examples":[{
  "id":1,
  "name":"Firebase Database",
