@@ -299,11 +299,11 @@
  {
 "id":4,
 "topic":"Animation",
-"desc":"This is one of the Jetpack features introduced by Google to promote good app architecture ",
+"desc":"This provides ways to reposition views on the screen ",
  "examples":[{
  "id":1,
  "name":"Property Animation",
- "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "desc":"The Property Animation system allows you to animate almost any property of an object which changes its value over a specified length of time",
  "samplecode":"nnnnnn",
  "projectlink":"",
  "doclink":""
@@ -311,15 +311,15 @@
  {
  "id":2,
  "name":"View Animation",
- "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "desc":"You can use the view animation system to perform tweened animation on Views. Tween animation calculates the animation with information such as the start point, end point, size, rotation, and other common aspects of an animation",
  "samplecode":"nnnnnn",
- "projectlink":"",
+ "projectlink":"https://developer.android.com/guide/topics/graphics/view-animation#:~:text=You%20can%20use%20the%20view,common%20aspects%20of%20an%20animation.",
  "doclink":""
  },
  {
  "id":3,
  "name":"Motion Layout",
- "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "desc":"This is intended to move,resize and animate UI elements with which users interact",
  "samplecode":"nnnnnn",
  "projectlink":"",
  "doclink":""
@@ -327,7 +327,7 @@
  {
  "id":4,
  "name":"Lottie Animation",
- "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "desc":"Lottie is a library for android that passes Adobe After Effects Animations eported as json with Bodymovin and renders them natively on mobile",
  "samplecode":"nnnnnn",
  "projectlink":"",
  "doclink":""
