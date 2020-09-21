@@ -376,12 +376,57 @@
  },
  {
 "id":5,
-"topic":"Threading",
+"topic":"Asynchronous Programming",
 "desc":"This is one of the Jetpack features introduced by Google to promote good app architecture ",
  "examples":[{
  "id":1,
  "name":"Runnables",
  "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ }]
+ },
+ {
+"id":6,
+"topic":"Design Patterns",
+"desc":"This is one of the Jetpack features introduced by Google to promote good app architecture ",
+ "examples":[{
+ "id":1,
+ "name":"Builder Pattern",
+ "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":2,
+ "name":"Adapter Pattern",
+ "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":3,
+ "name":"Factory Pattern",
+ "desc":"",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":4,
+ "name":"Observable Pattern",
+ "desc":"",
+ "samplecode":"nnnnnn",
+ "projectlink":"",
+ "doclink":""
+ },
+ {
+ "id":5,
+ "name":"Singleton Pattern",
+ "desc":"",
  "samplecode":"nnnnnn",
  "projectlink":"",
  "doclink":""
