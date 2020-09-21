@@ -261,7 +261,7 @@
  "examples":[{
  "id":1,
  "name":"ViewModel",
- "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "desc":"This class helps to store UI related data that isn't destroyed during configuration changes",
  "samplecode":"nnnnnn",
  "projectlink":"",
  "doclink":""
@@ -269,7 +269,7 @@
  {
  "id":2,
  "name":"LiveData",
- "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "desc":"This is a lifecycle aware observable data holder that listens to changes in data and emits for the view to observe",
  "samplecode":"nnnnnn",
  "projectlink":"",
  "doclink":""
@@ -277,7 +277,7 @@
  {
  "id":3,
  "name":"Room Database",
- "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "desc":"An SQLite object mapping library used to avoid boiler plate code",
  "samplecode":"nnnnnn",
  "projectlink":"",
  "doclink":""
@@ -285,7 +285,7 @@
  {
  "id":4,
  "name":"Paging library",
- "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "desc":"Paging library helps to load and display small chunks of data at a time",
  "samplecode":"nnnnnn",
  "projectlink":"",
  "doclink":""
@@ -293,7 +293,7 @@
  {
  "id":5,
  "name":"WorkManager",
- "desc":"This class helps to easily persist data during configuration changes and also for separation of concerns",
+ "desc":"An API that makes it easy to schedule deferrable,asynchronous task that are wxpected to run even if the device exits or the device restarts",
  "samplecode":"nnnnnn",
  "projectlink":"",
  "doclink":""
